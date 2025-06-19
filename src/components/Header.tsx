@@ -42,7 +42,7 @@ const Header = () => {
   className="flex items-center space-x-3"
 >
   <img 
-    src="tahinilogo.jpg" 
+    src="public/tahinilogo.jpg" 
     alt="Logo"
     className="w-10 h-10 object-contain"
   />
