@@ -11,7 +11,7 @@ const Hero = () => {
       <div className="absolute inset-0 z-0">
         <div className="relative w-full h-full">
           <img
-            src="herobgggg.jpg"
+            src="public/herobgggg.jpg"
             alt="Sri Lankan Beach Resort"
             className="w-full h-full object-cover"
           />
